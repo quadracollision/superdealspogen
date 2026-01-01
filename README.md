@@ -27,7 +27,7 @@ pip install reportlab
 
 ## Usage
 
-### GUI Version (Recommended)
+### Running
 
 Run the main application:
 
@@ -40,13 +40,6 @@ python3 main.py
 3. Update your Company, Vendor, and Ship To details in the tabs below.
 4. Click "Save" on each tab to persist your details.
 5. Click "Generate" to create and save the PDF purchase order.
-
-### Command-Line Version
-
-A legacy CLI version is also available:
-
-```bash
-python3 generate_purchase_order.py
 ```
 
 ## Project Structure
