@@ -1,6 +1,6 @@
 # superdealspogen
 
-A compact Python application for generating PDF purchase orders from product export CSV files.
+A compact Python application for generating PDF purchase orders from Shopify product export CSV files.
 
 ## Features
 
