@@ -1,4 +1,4 @@
-# Purchase Order Generator
+# superdealspogen
 
 A compact Python application for generating PDF purchase orders from product export CSV files.
 
